@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Juliane Wahl.
 - 💻 Cursando Engenharia de Software
 - 🏫 Faculdade: Ugv - Centro Universitário
-- 📞 contate-me no email: julianewah794@gmail.com
+- 📞 contate-me no email: julianewahl794@gmail.com
 
  <div> 
   <a href="https://www.youtube.com/channel/UCgBX_7e-GDK1SRkXuuEXD2A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
