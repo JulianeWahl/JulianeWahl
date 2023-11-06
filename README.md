@@ -1,4 +1,4 @@
-### Oiii! Eu sou a Juliane Wahl.
+### Oii! Eu sou a Juliane Wahl.
 - 💻 Cursando Engenharia de Software
 - 🏫 Faculdade: Ugv - Centro Universitário
 - 📞 contate-me no email: julianewahl794@gmail.com
